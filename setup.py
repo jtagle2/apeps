@@ -7,7 +7,7 @@ setup(
   author = 'Joaquin Tagle',
   author_email = 'jtagle2@uc.cl',
   url = 'https://github.com/jtagle2/apeps', # use the URL to the github repo
-  download_url = 'https://github.com/jtagle2/apep-generator/tarball/0.2',
+  download_url = 'https://github.com/jtagle2/apeps/tarball/0.1',
   keywords = ['testing'],
   classifiers = [],
 )
